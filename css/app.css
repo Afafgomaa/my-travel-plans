@@ -58,8 +58,16 @@ h2 {
 .develop {
     background: #d32f2f;
     color: aliceblue;
+<<<<<<< HEAD
 }
 .master {
     background: #d32f2f;
     color: aliceblue;
+||||||| merged common ancestors
+=======
+}
+.testbracnch {
+    background: #d32f2f;
+    color: aliceblue;
+>>>>>>> testbranch
 }
